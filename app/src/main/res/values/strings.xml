@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Webpage Checker</string>
+    <string name="description">Description:</string>
+    <string name="url">Url:</string>
+</resources>
