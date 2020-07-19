@@ -1,6 +1,6 @@
 # WebpageChecker
 
-Webpage Checker is a Android app that allows anyone to search for certain keywords at url's that you configured.
+Webpage Checker is a Android app that allows anyone to search for keywords at url's.
 
 ## Purpose
 
