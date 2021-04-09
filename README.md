@@ -8,7 +8,7 @@ This project's purpose was to learn how to create a basic Android app. Creating 
 
 ## Website
 
-[https://github.com/JohanVanSteenbrugghe/WebpageChecke](https://github.com/JohanVanSteenbrugghe/WebpageChecker)
+[https://github.com/JohanVanSteenbrugghe/WebpageChecker](https://github.com/JohanVanSteenbrugghe/WebpageChecker)
 
 ## Getting Started
 
