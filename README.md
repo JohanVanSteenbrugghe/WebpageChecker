@@ -30,6 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 * [Android Studio](https://developer.android.com/studio) - IDE
 * [Android 8.1 (Oreo)](https://developer.android.com/about/versions/oreo) - Android SDK
 * [Java 8](https://www.java.com/nl/download/) - Java SDK
+* [SQLLite](https://www.sqlite.org/index.html) - Database
 * [Git](https://www.git-scm.com/) - Version Control
 * [Github](https://github.com/) - Repository
 
@@ -38,6 +39,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Java
 * Gradle
 * Android
+* SQLLite
 
 ## License
 
