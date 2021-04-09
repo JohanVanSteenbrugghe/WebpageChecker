@@ -6,6 +6,10 @@ Webpage Checker is a Android app that allows anyone to search for keywords at ur
 
 This project's purpose was to learn how to create a basic Android app. Creating the app helped me to better understand how the XML layout, activities, manifest, notifications, web requests and persistence with SqlLite works with the Java programming language for Android devices.
 
+## Website
+
+[https://github.com/JohanVanSteenbrugghe/WebpageChecke](https://github.com/JohanVanSteenbrugghe/WebpageChecker)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development purposes.
@@ -29,6 +33,12 @@ These instructions will get you a copy of the project up and running on your loc
 * [Git](https://www.git-scm.com/) - Version Control
 * [Github](https://github.com/) - Repository
 
+## Technologies
+
+* Java
+* Gradle
+* Android
+
 ## License
 
 This project has no license - see the LICENSE file for details
@@ -40,3 +50,10 @@ This project has no license - see the LICENSE file for details
 * [https://developer.android.com/guide](https://developer.android.com/guide)
 * [https://docs.oracle.com/javase/tutorial/](https://docs.oracle.com/javase/tutorial/)
 * [https://stackoverflow.com/](https://stackoverflow.com/)
+
+## Images
+
+![Capture1](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/Images/Capture1.png?raw=true)
+![Capture2](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/Images/Capture2.png?raw=true)
+![Capture3](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/Images/Capture3.png?raw=true)
+![Capture4](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/Images/Capture4.png?raw=true)
