@@ -53,7 +53,7 @@ This project has no license - see the LICENSE file for details
 
 ## Images
 
-![Capture1](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/Images/Capture1.png?raw=true)
-![Capture2](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/Images/Capture2.png?raw=true)
-![Capture3](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/Images/Capture3.png?raw=true)
-![Capture4](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/Images/Capture4.png?raw=true)
+![Capture1](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/images/Capture1.png?raw=true)
+![Capture2](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/images/Capture2.png?raw=true)
+![Capture3](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/images/Capture3.png?raw=true)
+![Capture4](https://github.com/JohanVanSteenbrugghe/WebpageChecker/blob/master/images/Capture4.png?raw=true)
